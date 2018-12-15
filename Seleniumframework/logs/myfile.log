@@ -1,0 +1,15 @@
+[TRACE] 2018-12-07 01:57:05.454 [main] log4j - This is trace msg
+[INFO ] 2018-12-07 01:57:05.457 [main] log4j - This is info msg
+[ERROR] 2018-12-07 01:57:05.458 [main] log4j - This is error msg
+[WARN ] 2018-12-07 01:57:05.458 [main] log4j - This is warn msg
+[FATAL] 2018-12-07 01:57:05.458 [main] log4j - This is fatal msg
+[TRACE] 2018-12-08 00:16:36.384 [main] log4j - This is trace msg
+[INFO ] 2018-12-08 00:16:36.391 [main] log4j - This is info msg
+[ERROR] 2018-12-08 00:16:36.392 [main] log4j - This is error msg
+[WARN ] 2018-12-08 00:16:36.392 [main] log4j - This is warn msg
+[FATAL] 2018-12-08 00:16:36.392 [main] log4j - This is fatal msg
+[TRACE] 2018-12-08 00:24:50.138 [main] log4j - This is trace msg
+[INFO ] 2018-12-08 00:24:50.142 [main] log4j - This is info msg
+[ERROR] 2018-12-08 00:24:50.142 [main] log4j - This is error msg
+[WARN ] 2018-12-08 00:24:50.142 [main] log4j - This is warn msg
+[FATAL] 2018-12-08 00:24:50.142 [main] log4j - This is fatal msg
