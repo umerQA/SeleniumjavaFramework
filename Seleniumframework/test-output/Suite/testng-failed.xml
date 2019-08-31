@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="listners.testNGListners"/>
+  </listeners>
   <test thread-count="5" name="Test(failed)">
-    <parameter name="My name" value="Automatic"/>
     <classes>
-      <class name="Paremeters.TestNGParameters">
+      <class name="listners.testNGListnerDemo2">
         <methods>
-          <include name="Test"/>
+          <include name="test6"/>
         </methods>
-      </class> <!-- Paremeters.TestNGParameters -->
+      </class> <!-- listners.testNGListnerDemo2 -->
+      <class name="listners.testNGListnerDemo">
+        <methods>
+          <include name="test3"/>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- listners.testNGListnerDemo -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

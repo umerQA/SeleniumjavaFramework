@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="34575" started-at="2018-12-13T20:53:17Z" finished-at="2018-12-13T20:53:51Z">
+  <suite name="Default suite" duration-ms="27188" started-at="2019-08-31T10:57:44Z" finished-at="2019-08-31T10:58:11Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="34575" started-at="2018-12-13T20:53:17Z" finished-at="2018-12-13T20:53:51Z">
+    <test name="Default test" duration-ms="27188" started-at="2019-08-31T10:57:44Z" finished-at="2019-08-31T10:58:11Z">
       <class name="Katalone.Test1">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:Katalone.Test1@6ba0ac]" name="setUp" is-config="true" duration-ms="20292" started-at="2018-12-13T20:53:17Z" finished-at="2018-12-13T20:53:37Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Katalone.Test1@10736d9]" name="setUp" is-config="true" duration-ms="7575" started-at="2019-08-31T10:57:44Z" finished-at="2019-08-31T10:57:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:Katalone.Test1@6ba0ac]" name="test1" duration-ms="13370" started-at="2018-12-13T20:53:37Z" finished-at="2018-12-13T20:53:51Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:Katalone.Test1@10736d9]" name="test1" duration-ms="18213" started-at="2019-08-31T10:57:51Z" finished-at="2019-08-31T10:58:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Katalone.Test1@6ba0ac]" name="tearDown" is-config="true" duration-ms="877" started-at="2018-12-13T20:53:51Z" finished-at="2018-12-13T20:53:51Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Katalone.Test1@10736d9]" name="tearDown" is-config="true" duration-ms="1330" started-at="2019-08-31T10:58:09Z" finished-at="2019-08-31T10:58:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
